@@ -10,7 +10,8 @@ function add_item() {
         let make_li = document.createElement("LI");
         make_li.appendChild(document.createTextNode(item.value));
     
-        // Adding li to ul
+        // Adding li to ul the list that exist 
+       // let make_li = document.get elementry 
         list_item.appendChild(make_li);
     
         // Reset the value of box
