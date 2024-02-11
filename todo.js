@@ -5,7 +5,8 @@ function add_item() {
     let item = document.getElementById("box");
     let list_item = document.getElementById("list_item");
     if(item.value != ""){
-    
+    //if(item.valur!= ""){
+        //creating element and adding value to it when yo
         // Creating element and adding value to it
         let make_li = document.createElement("LI");
         make_li.appendChild(document.createTextNode(item.value));
