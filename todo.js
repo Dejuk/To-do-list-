@@ -14,7 +14,7 @@ function add_item() {
        // let make_li = document.get elementry 
         list_item.appendChild(make_li);
     
-        // Reset the value of box
+        // Reset the value of box that you insert 
         item.value=""
         
         // Delete a li item on click
