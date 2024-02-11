@@ -25,7 +25,7 @@ function add_item() {
     }
     else{
     
-        // Alert msg when value of box is "" empty.
+        // Alert msg when value of box is "" empty ànd not any input string are  
         alert("plz add a value to item what you add for your  todo list");
     }
     
