@@ -8,7 +8,7 @@ function add_item() {
     let list_item = document.getElementById("list_item");
     if(item.value != ""){
     //if(item.valur!= ""){
-        //creating element and  by user adding value to it when yo
+        //creating element and  by user adding value to it when you click
         // Creating element and adding value to it
         let make_li = document.createElement("LI");
         make_li.appendChild(document.createTextNode(item.value));
