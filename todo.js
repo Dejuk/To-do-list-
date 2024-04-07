@@ -1,6 +1,8 @@
 
 function add_item() {
 
+
+    
     // Getting box and ul by selecting id;
     let item = document.getElementById("box");
     let list_item = document.getElementById("list_item");
