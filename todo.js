@@ -1,6 +1,6 @@
 
 
-// Function called while clicking add button for nww
+// F
 function add_item() {
 
     // Getting box and ul by selecting id;
