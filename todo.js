@@ -1,6 +1,6 @@
 
 
-// F
+
 function add_item() {
 
     // Getting box and ul by selecting id;
